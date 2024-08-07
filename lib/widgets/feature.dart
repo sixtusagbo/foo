@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foo/helpers.dart' show StringCasingExtension, myDefaultSize;
+import 'package:foo/helpers.dart' show StringCasingExtension;
 import 'package:foo/models/feature_info.dart';
 import 'package:foo/widgets/dot.dart';
 
